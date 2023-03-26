@@ -57,9 +57,8 @@
 }
 .backgroundvid{
     position: fixed;
-    top: -50px;
+    top: 0px;
     left: 0px;
-    max-width:100%;
     height:auto;
 
 }
