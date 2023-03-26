@@ -61,10 +61,18 @@ body{
     z-index: -2;
 }
 .backgroundvid{
+    max-width: 100%;
+    max-height: 100%;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    overflow: hidden;
     position: fixed;
-    top: 0px;
-    left: 0px;
-    height:auto;
+    right: 0;
+    top: 0;
+    -o-object-fit: fill;
+    object-fit: fill;
+
 
 }
 .focim{
